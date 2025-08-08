@@ -1,8 +1,10 @@
 <!-- Banner -->
-<img src="Banner.png" alt="Banner" />
+<p align="center">
+  <img src="Banner.png" alt="Banner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Altaf Uddin Sifat</h1>
+<h3 align="center">Frontend-Focused MERN Stack Developer</h3>
 
 ---
 
