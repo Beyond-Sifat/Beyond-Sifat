@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://your-banner-url.com/banner.png" alt="Banner" />
+<img src="Banner.png" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
