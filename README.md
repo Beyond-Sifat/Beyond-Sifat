@@ -10,8 +10,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
-- 🔭 I’m working on a **Tourism Website**
+- 🌱 I’m currently learning **Next.js and intrested to learn TypeScript**
+- 🔭 I’m working on a **Sports Club management website**
 - 🧠 I’m practicing **React, Firebase, MongoDB**
 - ⚡ Fun fact: I love building UI from scratch!
 
