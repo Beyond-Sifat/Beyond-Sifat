@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Beyond-Sifat&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Beyond-Sifat&theme=radical"/>
 </p>
 
 <p align="center">
