@@ -39,7 +39,7 @@
 
 ---
 
-##Projects
+### Projects
 
 ### 🌍 Connect with Me
 
