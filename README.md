@@ -20,11 +20,11 @@
 ### 🛠️ Skills
 
 #### 👨‍💻 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
 
 
 #### 🧪 Backend & DB
