@@ -40,7 +40,21 @@
 
 ---
 
-### Projects
+### 🚀 Projects
+
+#### 🍔 [Food Expiry Tracker](https://github.com/Beyond-Sifat/Assignment-11-client)
+Track food expiry dates with categorized views for expired and near-expired items.  
+**Tech Stack:** React, Firebase Auth, Node.js, Express.js, MongoDB, TailwindCSS  
+
+#### 🌱 [Plant Care Tracker](https://github.com/Beyond-Sifat/Assignment-10-client)
+Manage and track personal plants with login-based "My Plants" section.  
+**Tech Stack:** React, Firebase, Node.js, Express.js, MongoDB, TailwindCSS  
+
+#### 🏆 [Sports Club Management System](https://github.com/Beyond-Sifat/Assignment-12-client)
+Advanced role-based system for managing clubs, courts, bookings, and admin dashboards.  
+**Tech Stack:** React, Firebase, Node.js, Express.js, MongoDB, TailwindCSS, Stripe  
+
+---
 
 ### 🌍 Connect with Me
 
