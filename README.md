@@ -20,7 +20,7 @@
 ### 🛠️ Skills
 
 #### 👨‍💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
