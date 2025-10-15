@@ -71,7 +71,7 @@ Advanced role-based system for managing clubs, courts, bookings, and admin dashb
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Beyond-Sifat&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Beyond-Sifat&theme=tokyonight-duo" alt="GitHub Streak" />
 </p>
 
 <p align="center">
