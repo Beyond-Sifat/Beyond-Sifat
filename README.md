@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Next.js and intrested to learn TypeScript**
+- 🌱 I’m currently learning **TypeScript and interested in new tech**
 - 🔭 I’m working on a **Sports Club management website**
-- 🧠 I’m practicing **React, Firebase, MongoDB**
+- 🧠 I’m practicing **React, Next.js, Firebase, MongoDB**
 - ⚡ Fun fact: I love building UI from scratch!
 
 ---
@@ -25,6 +25,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 
 
 #### 🧪 Backend & DB
@@ -32,6 +35,8 @@
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
