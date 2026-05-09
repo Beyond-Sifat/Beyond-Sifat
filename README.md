@@ -85,6 +85,8 @@ Advanced role-based system for managing clubs, courts, bookings, and admin dashb
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyond-Sifat&layout=compact&theme=radical" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beyond-Sifat&layout=donut"  alt="Top Languages"/> -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beyond-Sifat&layout=pie"  alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beyond-Sifat&exclude_repo=github-readme-stats"  alt="Top Languages"/> -->
 </p>
 
