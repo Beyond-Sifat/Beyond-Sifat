@@ -75,8 +75,9 @@ Advanced role-based system for managing clubs, courts, bookings, and admin dashb
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Sifat&show_icons=true&theme=radical" alt="GitHub stats"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyond-Sifat&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Beyond-Sifat&show_icons=true&theme=highcontrast" alt="GitHub stats"/>
+  <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Sifat&show_icons=true&theme=radical" alt="GitHub stats"/> -->
 </p>
 
 <p align="center">
